@@ -6,7 +6,7 @@ This project is created by using pure **T-SQL** and creates a simple database an
 - Organizations
 - Products
 - Orders
-- Orders details
+- Order details
 - Product vendors
 
 ## ERD
